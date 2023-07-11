@@ -13,7 +13,7 @@
 }
 
 .header-img {
-    margin-bottom: -150px;
+    margin-bottom: -140px;
 }
 
 .header-text {
@@ -172,13 +172,14 @@
 }
 
 .img-insta {
-    height: 250px;
-    width: 220;
+    
+    width: 260px;
     padding: 10px;
 }
 
 .insta-imgs-container {
-    margin-left: 150px;
+    padding-left: 100px;
+    align-items: center;
 
 }
 
