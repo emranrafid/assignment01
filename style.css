@@ -137,8 +137,7 @@
     justify-content: center;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
-    gap: ;
-    
+
 }
 
 .discount-title {
@@ -149,13 +148,16 @@
     font-weight: 800;
     line-height: normal;
 }
-.discount-info{
+
+.discount-info {
     margin-right: 100px;
 }
-.off{
+
+.off {
     color: #E55473;
 }
-.discount-desc{
+
+.discount-desc {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-family: Lato;
@@ -164,6 +166,35 @@
     font-weight: 400;
     line-height: 30px;
 }
-.btn-2{
+
+.btn-2 {
     margin-left: 250px;
+}
+
+.img-insta {
+    height: 250px;
+    width: 220;
+    padding: 10px;
+}
+
+.insta-imgs-container {
+    margin-left: 150px;
+
+}
+
+.subscribe-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input {
+    background-color: rgb(163, 51, 51);
+    padding: 15px 150px 15px 15px;
+    border-radius: 8px;
+    background: #FFF;
+    border: none;
+}
+.btn-subscribe{
+    width: 100px;
 }
